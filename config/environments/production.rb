@@ -78,8 +78,8 @@ DeviseTest::Application.configure do
       domain: "myapp.heroku.com",
       authentication: "plain",
       enable_starttls_auto: true,
-      user_name: ENV["pertsavigorstray@gmail.com"],
-      password: ENV["203night20spirit01"]
+      user_name: "pertsavigorstray@gmail.com",
+      password: "203night20spirit01"
   }
 
 end

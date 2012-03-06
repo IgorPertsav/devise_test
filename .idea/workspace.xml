@@ -79,7 +79,7 @@
       <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1957" selection-end="1957" vertical-scroll-proportion="0.745283">
+            <state line="78" column="28" selection-start="2928" selection-end="2933" vertical-scroll-proportion="0.6320755">
               <folding />
             </state>
           </provider>
@@ -88,7 +88,7 @@
       <file leaf-file-name="production.log" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log/production.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="729" column="0" selection-start="44321" selection-end="44321" vertical-scroll-proportion="0.0">
+            <state line="1315" column="0" selection-start="82863" selection-end="82863" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -579,7 +579,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/log/production.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="729" column="0" selection-start="44321" selection-end="44321" vertical-scroll-proportion="0.0">
+        <state line="1315" column="0" selection-start="82863" selection-end="82863" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -600,7 +600,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1957" selection-end="1957" vertical-scroll-proportion="0.745283">
+        <state line="78" column="28" selection-start="2928" selection-end="2933" vertical-scroll-proportion="0.6320755">
           <folding />
         </state>
       </provider>
