@@ -79,7 +79,7 @@
       <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="28" selection-start="3073" selection-end="3073" vertical-scroll-proportion="0.8018868">
+            <state line="77" column="64" selection-start="2926" selection-end="2926" vertical-scroll-proportion="0.6037736">
               <folding />
             </state>
           </provider>
@@ -620,7 +620,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="28" selection-start="3073" selection-end="3073" vertical-scroll-proportion="0.8018868">
+        <state line="77" column="64" selection-start="2926" selection-end="2926" vertical-scroll-proportion="0.6037736">
           <folding />
         </state>
       </provider>
