@@ -75,11 +75,11 @@ DeviseTest::Application.configure do
   config.action_mailer.smtp_settings = {
       address: "smtp.gmail.com",
       port: 587,
-      domain: "young-beach-3765.heroku.com/",
+      domain: "young-beach-3765.heroku.com",
       authentication: "plain",
       enable_starttls_auto: true,
       user_name: "pertsavigorstray@gmail.com",
       password: "203night20spirit01"
   }
 
-end                         3
+end
