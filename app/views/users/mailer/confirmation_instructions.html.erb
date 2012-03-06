@@ -1,6 +1,6 @@
 <p>Hello, dear <%= @resource.email %>!</p>
 
-<p>> It's nice to see your interest in our project :) I hope, it will be pleasure for you. </p>
-<p>I know, it's really boring part, but I should do it :( Please, confirm your account through link below:</p>
+<p>> It's nice to see ypu interested in our project :) We hope, it will be pleasure for you. </p>
+<p>We know, it's a really boring part, but we have to do it :( Please, confirm your account through the link below:</p>
 
 <p><%= link_to 'Confirm my account', confirmation_url(@resource, :confirmation_token => @resource.confirmation_token) %></p>
